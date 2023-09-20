@@ -1,0 +1,1 @@
+alias restipt='sudo iptables-restore /etc/iptables/rules.v4 && sudo service docker restart'
